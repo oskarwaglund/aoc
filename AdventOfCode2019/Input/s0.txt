@@ -1,0 +1,10 @@
+d l 176 PC
+d m 184 PC
+d r 134 PC
+l m 84
+l r 42
+m r 50
+0 d 170 CP
+0 l 70
+0 m 14
+0 r 36

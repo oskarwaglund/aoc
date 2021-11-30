@@ -1,0 +1,43 @@
+loom         heavy
+space law    heavy
+space heater light
+pointer      light
+festive hat  light
+sand         light
+wreath       light
+planetoid    light
+escape pod   die
+photons      die
+molten lava  die
+infinite loop die
+
+Too heavy:
+
+Items in your inventory:
+- planetoid
+- festive hat
+- space heater
+- sand
+- pointer
+- wreath
+
+Items in your inventory:
+- planetoid
+- space heater
+- sand
+- pointer
+- wreath
+
+Items in your inventory:
+- planetoid
+- festive hat
+
+Too light:
+
+Items in your inventory:
+- planetoid
+- pointer
+
+Items in your inventory:
+- planetoid
+- sand

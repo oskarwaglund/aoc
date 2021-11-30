@@ -1,0 +1,15 @@
+f w 158 NH
+f q 342 NHR
+f x 66 NG
+f c 222 NH
+w q 184 R
+w x 216 HG
+w c 64
+q x 400 RHG
+q c 124 R
+x c 280 GH
+1 f 266 RHN
+1 w 108 R
+1 q 148
+1 x 324 RHG
+1 c 48 R

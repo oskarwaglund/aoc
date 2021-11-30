@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode2019", "AdventOfCode2019\AdventOfCode2019.csproj", "{D9C89247-AF24-468F-B0A7-24A41E22C682}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventLib", "AdventLib\AdventLib.csproj", "{3F5E20D1-B28A-4CA1-BB8E-DB8D63630792}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode2020", "AdventOfCode2020\AdventOfCode2020.csproj", "{82D648D5-3359-45BD-A586-3E7E5ADBEAE1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode2015", "AdventOfCode2015\AdventOfCode2015.csproj", "{FCFC56F2-1DC3-49A0-8CCC-163A49566F38}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode2016", "AdventOfCode2016\AdventOfCode2016.csproj", "{80954C9A-0610-4547-AFBA-35E15EB7C044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2018", "AdventOfCode2018\AdventOfCode2018.csproj", "{A962AF1D-E78B-4216-B807-6D09C79D2098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C89247-AF24-468F-B0A7-24A41E22C682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C89247-AF24-468F-B0A7-24A41E22C682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C89247-AF24-468F-B0A7-24A41E22C682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C89247-AF24-468F-B0A7-24A41E22C682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5E20D1-B28A-4CA1-BB8E-DB8D63630792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5E20D1-B28A-4CA1-BB8E-DB8D63630792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5E20D1-B28A-4CA1-BB8E-DB8D63630792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5E20D1-B28A-4CA1-BB8E-DB8D63630792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D648D5-3359-45BD-A586-3E7E5ADBEAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D648D5-3359-45BD-A586-3E7E5ADBEAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D648D5-3359-45BD-A586-3E7E5ADBEAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D648D5-3359-45BD-A586-3E7E5ADBEAE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCFC56F2-1DC3-49A0-8CCC-163A49566F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFC56F2-1DC3-49A0-8CCC-163A49566F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFC56F2-1DC3-49A0-8CCC-163A49566F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFC56F2-1DC3-49A0-8CCC-163A49566F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80954C9A-0610-4547-AFBA-35E15EB7C044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80954C9A-0610-4547-AFBA-35E15EB7C044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80954C9A-0610-4547-AFBA-35E15EB7C044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80954C9A-0610-4547-AFBA-35E15EB7C044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A962AF1D-E78B-4216-B807-6D09C79D2098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A962AF1D-E78B-4216-B807-6D09C79D2098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A962AF1D-E78B-4216-B807-6D09C79D2098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A962AF1D-E78B-4216-B807-6D09C79D2098}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {279A690F-8A50-40C7-8AAE-8302C7ACB439}
+	EndGlobalSection
+EndGlobal
